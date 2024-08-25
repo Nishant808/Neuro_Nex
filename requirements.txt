@@ -1,4 +1,4 @@
 streamlit==1.23.1
-networkx==3.2
+networkx==2.6.3
 requests==2.31.0
 plotly==5.14.0
