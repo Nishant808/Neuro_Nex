@@ -137,7 +137,7 @@ st.markdown("""
     }
     </style>
     <div class="header">
-        <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Vasantrao_Naik_Marathwada_Krishi_Vidyapeeth_logo.png" alt="Logo">
+        <img src="https://media.istockphoto.com/id/1320786846/vector/made-in-india-vector-logo-with-indian-flag-painted-circles.jpg?s=612x612&w=0&k=20&c=79W9ygu_u1rSReQSSEDutUeFfCmN4vaoxN1e-3J51Xk=" alt="Logo">
     </div>
     <h1 style='text-align: center;'>Protein-Protein Interaction Network Visualization</h1>
 """, unsafe_allow_html=True)
